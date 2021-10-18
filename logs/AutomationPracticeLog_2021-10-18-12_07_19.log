@@ -1,0 +1,16 @@
+2021-Oct-18 12:07:23 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:07:23 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:07:31 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:07:32 pm [main] INFO  Base.WebDriverFactory - Driver closed
+2021-Oct-18 12:07:35 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:07:35 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:07:41 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:07:52 pm [main] INFO  Base.WebDriverFactory - Driver closed
+2021-Oct-18 12:07:54 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:07:54 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:08:02 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:08:07 pm [main] INFO  Base.WebDriverFactory - Driver closed
+2021-Oct-18 12:08:10 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:08:10 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:08:16 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:08:29 pm [main] INFO  Base.WebDriverFactory - Driver closed

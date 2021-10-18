@@ -1,0 +1,15 @@
+2021-Oct-18 12:09:30 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:09:30 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:09:38 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:09:45 pm [main] INFO  PageObject.Products_PO - Successfully login
+2021-Oct-18 12:09:55 pm [main] INFO  Base.WebDriverFactory - Driver closed
+2021-Oct-18 12:09:57 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:09:57 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:10:05 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:10:12 pm [main] INFO  PageObject.Products_PO - Add 3 products successfully
+2021-Oct-18 12:10:14 pm [main] INFO  Base.WebDriverFactory - Driver closed
+2021-Oct-18 12:10:16 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 12:10:17 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 12:10:24 pm [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:10:32 pm [main] INFO  PageObject.Products_PO - Add 3 products successfully
+2021-Oct-18 12:10:37 pm [main] INFO  Base.WebDriverFactory - Driver closed

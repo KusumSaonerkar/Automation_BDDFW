@@ -1,0 +1,5 @@
+2021-Oct-18 11:59:45 am [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2021-Oct-18 11:59:46 am [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2021-Oct-18 11:59:54 am [main] INFO  Base.WebDriverFactory - Browser navigated to the url: http://automationpractice.com/index.php?
+2021-Oct-18 12:00:02 pm [main] INFO  PageObject.Products_PO - Add 3 products successfully
+2021-Oct-18 12:00:04 pm [main] INFO  Base.WebDriverFactory - Driver closed

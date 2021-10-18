@@ -1,0 +1,107 @@
+[
+  {
+    "line": 22,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-18T07:16:05.313Z",
+        "before": [
+          {
+            "result": {
+              "duration": 12009100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Stepdef.Landingpage_SD.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "User validate the facebook page",
+        "description": "",
+        "id": "bdd-framework-testcases;user-validate-the-facebook-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13778167400,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User open the browser",
+            "match": {
+              "location": "Stepdef.Landingpage_SD.user_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 613468500,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User click on facebook icon",
+            "match": {
+              "location": "Stepdef.Landingpage_SD.user_click_on_facebook_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression ///h1[@dir \u003d \u0027auto\u0027]//span[@dir \u003d \u0027auto\u0027]/div[text() \u003d \u0027Selenium Framework\u0027] because of the following error:\nSyntaxError: Failed to execute \u0027evaluate\u0027 on \u0027Document\u0027: The string \u0027///h1[@dir \u003d \u0027auto\u0027]//span[@dir \u003d \u0027auto\u0027]/div[text() \u003d \u0027Selenium Framework\u0027]\u0027 is not a valid XPath expression.\n  (Session info: chrome\u003d94.0.4606.81)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-DH2JHCU\u0027, ip: \u0027192.168.1.19\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002713.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\\Users\\Kaps\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ce3c354f112a2a321395659ab25a4def\n*** Element info: {Using\u003dxpath, value\u003d///h1[@dir \u003d \u0027auto\u0027]//span[@dir \u003d \u0027auto\u0027]/div[text() \u003d \u0027Selenium Framework\u0027]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat Stepdef.Landingpage_SD.user_nevigte_to_facebook_page(Landingpage_SD.java:88)\r\n\tat ✽.User nevigte to facebook page \"Selenium Framework\"(classpath:features/Landingpage.feature:41)\r\n",
+              "duration": 4988266400,
+              "status": "failed"
+            },
+            "line": 41,
+            "name": "User nevigte to facebook page \"Selenium Framework\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Selenium Framework\"",
+                  "offset": 30
+                }
+              ],
+              "location": "Stepdef.Landingpage_SD.user_nevigte_to_facebook_page(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 998800,
+              "status": "skipped"
+            },
+            "line": 42,
+            "name": "User close the browser",
+            "match": {
+              "location": "Stepdef.Landingpage_SD.user_close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LandingPage"
+          },
+          {
+            "name": "@facebook"
+          }
+        ]
+      }
+    ],
+    "name": "BDD Framework Testcases",
+    "description": "",
+    "id": "bdd-framework-testcases",
+    "keyword": "Feature",
+    "uri": "classpath:features/Landingpage.feature",
+    "tags": [
+      {
+        "name": "@LandingPage",
+        "type": "Tag",
+        "location": {
+          "line": 20,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
