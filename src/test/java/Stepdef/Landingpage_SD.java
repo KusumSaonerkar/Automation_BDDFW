@@ -32,6 +32,13 @@ public class Landingpage_SD extends TestContext
 		this.testContext = testContext;
 		this.scn = testContext.scn;		
 	}
+	@After 
+	public void ScreenShot(Scenario scn)
+	{
+		screenshot.ScreenShotOfFailedScenario(this.scn);
+		
+	}
+	
 	
 	@Before
 	public void setup(Scenario scn)
