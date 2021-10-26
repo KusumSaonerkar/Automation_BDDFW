@@ -39,7 +39,6 @@ public class Landingpage_SD extends TestContext
 		
 	}
 	
-	
 	@Before
 	public void setup(Scenario scn)
 	{
